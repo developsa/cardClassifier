@@ -95,8 +95,8 @@ You can install the required packages by running:
 
 ## PREDICTION
 
-![cardPrediction.png](cardPrediction/cardPrediction.png)
-![cardPrediction.png2](cardPrediction/cardPrediction2.png)
-![cardPrediction.png3](cardPrediction/cardPrediction3.png)
+![cardPrediction](cardPrediction/cardPrediction.PNG)
+![cardPrediction](cardPrediction/cardPrediction2.PNG)
+![cardPrediction](cardPrediction/cardPrediction3.PNG)
 
 
